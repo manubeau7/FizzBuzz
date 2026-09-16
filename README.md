@@ -1,2 +1,0 @@
-# FizzBuzz
-division program
